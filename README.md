@@ -1,4 +1,6 @@
-# ConversorMoeda
+Desafio Alura ONE
+
+Conversor de Moedas
 
 Este arquivos fazem parte do Programa ONE.
 Neste novo Challenger o desafio é a criação de um Conversor de Moedas na linguagem Java.
